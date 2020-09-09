@@ -1,2 +1,2 @@
 # adsf
-[![Build Status](https://travis-ci.org/HookyQR/VSCodeBeautify)]
+[![Build Status](https://api.travis-ci.org/HookyQR/VSCodeBeautify.svg?branch=master)](https://travis-ci.org/HookyQR/VSCodeBeautify)
